@@ -3,16 +3,17 @@
 A modern and responsive online store for a  subsidiary of a European Holding Company from Switzerland, fabricating chipboard products and furniture as well as producing interior design.
 
 Desktop
+
 http://xylosuisse.ru/?lang=en
 
 Mobile
+
 http://m.xylosuisse.ru/?lang=en
 
 
 ---------------------------------------------------------------------------------------------------------
 1) English version.
 ![portfolio pic](https://raw.githubusercontent.com/nijnikis/Xylosuisse/master/img/Screenshot_1.png?raw=true "Title")
-
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -35,12 +36,10 @@ http://m.xylosuisse.ru/?lang=en
 ![portfolio pic](https://raw.githubusercontent.com/nijnikis/Xylosuisse/master/img/Screenshot_5.png?raw=true "Title")
 
 
-
 ---------------------------------------------------------------------------------------------------------
 6) Unique custom events slider.
 ![portfolio pic](https://raw.githubusercontent.com/nijnikis/Xylosuisse/master/img/Screenshot_6.png?raw=true "Title")
 ![portfolio pic](https://raw.githubusercontent.com/nijnikis/Xylosuisse/master/img/Screenshot_7.png?raw=true "Title")
-
 
 
 ---------------------------------------------------------------------------------------------------------
